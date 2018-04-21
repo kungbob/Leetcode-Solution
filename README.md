@@ -7,5 +7,6 @@
 |#  |Title  |Solution   |Difficulty   |Last Modify Date   |
 |---|---|---|---|---|
 |1   |Two Sum       |C, Python |Easy   |2018/04/09   |
-|2   |Add Two Numbers      |Python   |Easy   |2018/04/09   |
+|2   |Add Two Numbers      |Python   |Medium   |2018/04/09   |
+|3   |Longest Substring Without Repeating Characters   |Python   |Medium   |2018/4/21   |
 |   |   |   |   |   |

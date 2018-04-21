@@ -11,6 +11,8 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
+
+        """
         list_1 = []
         list_2 = []
         while l1:
@@ -37,3 +39,40 @@ class Solution:
 
 
         return start_node
+        """
+
+        # Improved version
+        # Iterate and Add in the same time
+
+        carry = 0
+        sum = 0
+        list_node = ListNode(sum % 10)
+        start_node = list_node
+        while l1:
+            if l2:
+                sum = l1.val + l2.val + carry
+                carry = sum // 10
+                l2 = l2.next
+            else:
+                sum = l1.val + carry
+                carry = sum // 10
+
+            list_node.next = ListNode(sum % 10)
+            list_node = list_node.next
+
+            l1 = l1.next
+
+        while l2:
+            sum = l2.val + carry
+            carry = sum // 10
+            list_node.next = ListNode(sum % 10)
+            list_node = list_node.next
+
+            l2 = l2.next
+
+        if carry:
+            list_node.next = ListNode(carry % 10)
+            list_node = list_node.next
+
+
+        return start_node.next
