@@ -1,3 +1,18 @@
+################################################################################
+# Question           : 5. Longest Palindromic Substring
+# Difficulty         : Medium
+# Author             : Kung Tsz Ho
+# Last Modified Date : 2018/8/3
+# Number of Method   : 1
+# Fastest Runtime    : 724 ms
+################################################################################
+
+################################################################################
+# Method  : 1 - Dynamic programming
+# Runtime : 724 ms
+# Beats   : 80.94 % of submissions
+# Remark  : Dynamic programming method is not the fastest method.
+################################################################################
 class Solution:
     def longestPalindrome(self, s):
         """

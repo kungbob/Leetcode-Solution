@@ -1,3 +1,18 @@
+################################################################################
+# Question           : 4. Median of Two Sorted Arrays
+# Difficulty         : Hard
+# Author             : Kung Tsz Ho
+# Last Modified Date : 2018/8/3
+# Number of Method   : 1
+# Fastest Runtime    : 100 ms
+################################################################################
+
+################################################################################
+# Method  : 1 -
+# Runtime : 100 ms
+# Beats   : 74.11 % of submissions
+# Remark  :
+################################################################################
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
         """

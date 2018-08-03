@@ -1,3 +1,18 @@
+################################################################################
+# Question           : 3. Longest Substring Without Repeating Characters
+# Difficulty         : Medium
+# Author             : Kung Tsz Ho
+# Last Modified Date : 2018/8/3
+# Number of Method   : 1
+# Fastest Runtime    : 124 ms
+################################################################################
+
+################################################################################
+# Method  : 1 -
+# Runtime : 72 ms
+# Beats   : 99.03 % of submissions
+# Remark  :
+################################################################################
 class Solution:
     def lengthOfLongestSubstring(self, s):
         """
@@ -14,7 +29,7 @@ class Solution:
         for char in s:
             if char in substring:
                 last_appearance = substring[char]
-                
+
                 # Reset the substring start point
                 if last_appearance > start:
                     start = last_appearance

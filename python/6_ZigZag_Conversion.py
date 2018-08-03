@@ -1,3 +1,18 @@
+################################################################################
+# Question           : 6. ZigZag Conversion
+# Difficulty         : Medium
+# Author             : Kung Tsz Ho
+# Last Modified Date : 2018/8/3
+# Number of Method   : 1
+# Fastest Runtime    : 84 ms
+################################################################################
+
+################################################################################
+# Method  : 1 -
+# Runtime : 84 ms
+# Beats   : 86.90 % of submissions
+# Remark  :
+################################################################################
 class Solution:
     def convert(self, s, numRows):
         """

@@ -1,3 +1,12 @@
+################################################################################
+# Question           : 2. Add Two Numbers
+# Difficulty         : Medium
+# Author             : Kung Tsz Ho
+# Last Modified Date : 2018/8/3
+# Number of Method   : 2
+# Fastest Runtime    : 112 ms
+################################################################################
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -11,6 +20,12 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
+################################################################################
+# Method  : 1 -
+# Runtime : 120 ms
+# Beats   : 40.23 % of submissions
+# Remark  :
+################################################################################
 
         """
         list_1 = []
@@ -41,8 +56,12 @@ class Solution:
         return start_node
         """
 
-        # Improved version
-        # Iterate and Add in the same time
+################################################################################
+# Method  : 2 -
+# Runtime : 112 ms
+# Beats   : 76.02 % of submissions
+# Remark  : Improved version of method 1; Iterate and add in the same time
+################################################################################
 
         carry = 0
         sum = 0
