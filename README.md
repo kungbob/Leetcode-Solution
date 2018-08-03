@@ -11,3 +11,5 @@
 |3   |Longest Substring Without Repeating Characters   |Python   |Medium   |2018/4/21   | |
 |4   |Median of Two Sorted Arrays   |Python   |Hard   |2018/4/30   | |
 |5   |Longest Palindromic Substring   |Python   |Medium   |2018/5/3   |Dynamic programming is used but it is not the fastest method. |
+|6   |ZigZag Conversion   |Python   |Medium   |2018/5/4   ||
+|7   |Reverse Integer     |Python   |Easy   |2018/5/4   ||
