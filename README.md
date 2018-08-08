@@ -14,4 +14,4 @@
 |5   |Longest Palindromic Substring   |Python3   |Medium   |2018/8/3   |Dynamic programming is used but it is not the fastest method. |
 |6   |ZigZag Conversion   |Python3   |Medium   |2018/8/3   ||
 |7   |Reverse Integer     |Python3   |Easy   |2018/8/3   ||
-|8   |String to Integer (atoi)    |Python3   |Medium   |2018/8/3 |Need to simplify (TODO)|
+|8   |String to Integer (atoi)    |Python3   |Medium   |2018/8/8 ||
