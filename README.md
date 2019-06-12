@@ -1,7 +1,7 @@
 # LeetCode Solution in Python3
 
 ## Note:
-1. LeetCode Solutions are written in Python33. One question may have several approaches to solve. Only the best solution (with the best time complexity) are not commented. Others are commented for reference. (Some complex solution with much faster time may not be implemented. For example, Question 5.)
+1. LeetCode Solutions are written in Python3 / C / Javascript. One question may have several approaches to solve. Both best practive and other approach are implemented. (Some complex solution with much faster time may not be implemented. For example, Question 5.)
 2. There are some solutions written in C. Those may not be the optimal solutions. (May be modified and update in later stage.)
 3. Comments are added on 2018/8/3 at the head of each Python3 file.
 
