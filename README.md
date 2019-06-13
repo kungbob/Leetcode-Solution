@@ -1,7 +1,7 @@
 # LeetCode Solution in Python3
 
 ## Note:
-1. LeetCode Solutions are written in Python3 / C / Javascript. One question may have several approaches to solve. Both best practive and other approach are implemented. (Some complex solution with much faster time may not be implemented. For example, Question 5.)
+1. LeetCode Solutions are written in Python3 / C / JavaScript. One question may have several approaches to solve. Both best practive and other approach are implemented. (Some complex solution with much faster time may not be implemented. For example, Question 5.)
 2. There are some solutions written in C. Those may not be the optimal solutions. (May be modified and update in later stage.)
 3. Comments are added on 2018/8/3 at the head of each Python3 file.
 
@@ -15,4 +15,5 @@
 |6   |ZigZag Conversion   |Python3   |Medium   |2018/8/3   ||
 |7   |Reverse Integer     |Python3   |Easy   |2018/8/3   ||
 |8   |String to Integer (atoi)    |Python3   |Medium   |2018/8/8 ||
-|11  |Container With Most Water   |Javascript|Medium   |2019/6/12||
+|11  |Container With Most Water   |JavaScript|Medium   |2019/6/12||
+|15  |3Sum |JavaScript|Medium |2019/6/13||
