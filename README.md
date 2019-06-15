@@ -18,3 +18,9 @@
 |11  |Container With Most Water   |JavaScript|Medium   |2019/6/12||
 |15  |3Sum |JavaScript|Medium |2019/6/13||
 |16  |3Sum Closest |JavaScript|Medium |2019/6/14||
+|17  |Letter Combinations of a Phone Number |JavaScript|Medium |2019/6/15||
+|18  |4Sum |JavaScript|Medium |2019/6/15||
+|19  |Remove Nth Node From End of List|JavaScript|Medium |2019/6/15||
+|20  |Valid Parentheses|JavaScript|Easy |2019/6/15||
+|21  |Merge Two Sorted Lists|JavaScript|Easy |2019/6/15||
+|22  |Generate Parentheses|JavaScript|Medium |2019/6/15||
