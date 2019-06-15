@@ -16,6 +16,7 @@
 |7   |Reverse Integer     |Python3   |Easy   |2018/8/3   ||
 |8   |String to Integer (atoi)    |Python3   |Medium   |2018/8/8 ||
 |11  |Container With Most Water   |JavaScript|Medium   |2019/6/12||
+|14  |Longest Common Prefix |JavaScript|Easy |2019/6/15||
 |15  |3Sum |JavaScript|Medium |2019/6/13||
 |16  |3Sum Closest |JavaScript|Medium |2019/6/14||
 |17  |Letter Combinations of a Phone Number |JavaScript|Medium |2019/6/15||
@@ -23,4 +24,4 @@
 |19  |Remove Nth Node From End of List|JavaScript|Medium |2019/6/15||
 |20  |Valid Parentheses|JavaScript|Easy |2019/6/15||
 |21  |Merge Two Sorted Lists|JavaScript|Easy |2019/6/15||
-|22  |Generate Parentheses|JavaScript|Medium |2019/6/15||
+|22  |Generate Parentheses|JavaScript|Medium |2019/6/15|DFS Method|
