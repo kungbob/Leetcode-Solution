@@ -25,3 +25,8 @@
 |20  |Valid Parentheses|JavaScript|Easy |2019/6/15||
 |21  |Merge Two Sorted Lists|JavaScript|Easy |2019/6/15||
 |22  |Generate Parentheses|JavaScript|Medium |2019/6/15|DFS Method|
+|24  |Swap Nodes in Pairs|JavaScript|Medium |2019/6/16||
+|26  |Remove Duplicate from Sorted Array|JavaScript|Easy |2019/6/16||
+|27  |Remove Element|JavaScript|Easy |2019/6/16||
+|28  |Implement strStr|JavaScript|Easy |2019/6/16||
+|29  |Divide Two Integers|JavaScript|Medium |2019/6/16||
