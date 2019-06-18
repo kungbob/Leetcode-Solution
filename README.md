@@ -30,3 +30,9 @@
 |27  |Remove Element|JavaScript|Easy |2019/6/16||
 |28  |Implement strStr|JavaScript|Easy |2019/6/16||
 |29  |Divide Two Integers|JavaScript|Medium |2019/6/16||
+|31  |Next Permutation|Python|Medium |2019/6/17|In-place sorting of part of the array is tricky.|
+|34  |Find First and Last Position of Element|Python|Medium |2019/6/17||
+|35  |Search Insert Position|Python|Easy |2019/6/17||
+|36  |Valid Sudoku|Python|Medium |2019/6/18||
+|38  |Count and Say|Python|Easy |2019/6/18||
+|58  |Length of Last Word|Python|Easy |2019/6/18||
