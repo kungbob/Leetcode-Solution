@@ -36,3 +36,6 @@
 |36  |Valid Sudoku|Python|Medium |2019/6/18||
 |38  |Count and Say|Python|Easy |2019/6/18||
 |58  |Length of Last Word|Python|Easy |2019/6/18||
+|66  |Plus One|Python|Easy |2019/6/19||
+|771 |Jewels and Stones|Python|Easy |2019/6/19||
+|807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
