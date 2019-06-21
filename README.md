@@ -37,7 +37,9 @@
 |38  |Count and Say|Python|Easy |2019/6/18||
 |58  |Length of Last Word|Python|Easy |2019/6/18||
 |66  |Plus One|Python|Easy |2019/6/19||
+|67  |Add Binary|Python|Easy |2019/6/21||
 |69  |Sqrt(x) |Python|Easy |2019/6/20||
+|100 |Same Tree|Python|Easy|2019/6/21||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
