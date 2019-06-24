@@ -37,7 +37,8 @@
 |36  |Valid Sudoku|Python|Medium |2019/6/18||
 |38  |Count and Say|Python|Easy |2019/6/18||
 |39  |Combination Sum|Python|Medium |2019/6/23|DFS Method|
-|40  |Combination Sum II|Python|Medium |20196/6/23|DFS Method|
+|40  |Combination Sum II|Python|Medium |2019/6/23|DFS Method|
+|43  |Multiply Strings|Python|Medium |2019/6/24||
 |58  |Length of Last Word|Python|Easy |2019/6/18||
 |66  |Plus One|Python|Easy |2019/6/19||
 |67  |Add Binary|Python|Easy |2019/6/21||
