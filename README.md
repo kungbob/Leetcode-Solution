@@ -45,5 +45,7 @@
 |69  |Sqrt(x) |Python|Easy |2019/6/20||
 |100 |Same Tree|Python|Easy|2019/6/21||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
+|709 |To Lower Case|Python|Easy|2019/6/24||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
+|832 |Flipping an Image|Python|Easy|2019/6/24||
