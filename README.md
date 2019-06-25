@@ -47,5 +47,8 @@
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |709 |To Lower Case|Python|Easy|2019/6/24||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
+|804 |Unique Morse Code Words|Python|Easy |2019/6/25||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
+|938 |Range Sum of BST|Python|Easy|2019/6/25||
+|977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
