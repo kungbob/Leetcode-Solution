@@ -44,7 +44,10 @@
 |67  |Add Binary|Python|Easy |2019/6/21||
 |69  |Sqrt(x) |Python|Easy |2019/6/20||
 |100 |Same Tree|Python|Easy|2019/6/21||
+|204 |Count Primes|Python|Easy|2019/6/26||
+|414 |Third Maximum Number|Python|Easy|2019/6/26||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
+|605 |Can Place Flowers|Python|Easy |2019/6/26||
 |709 |To Lower Case|Python|Easy|2019/6/24||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
