@@ -49,6 +49,7 @@
 |204 |Count Primes|Python|Easy|2019/6/26||
 |234 |Palindrome Linked List|Python|Easy|2019/7/2||
 |414 |Third Maximum Number|Python|Easy|2019/6/26||
+|443 |String Compression|Python|Easy|2019/7/3||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
