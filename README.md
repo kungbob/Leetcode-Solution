@@ -44,6 +44,7 @@
 |67  |Add Binary|Python|Easy |2019/6/21||
 |69  |Sqrt(x) |Python|Easy |2019/6/20||
 |100 |Same Tree|Python|Easy|2019/6/21||
+|112 |Path Sum|Python|Easy|2019/7/4||
 |155 |Min Stack|Python|Easy|2019/7/2||
 |203 |Remove Linked List Element|Python|Easy|2019/7/2||
 |204 |Count Primes|Python|Easy|2019/6/26||
@@ -54,6 +55,7 @@
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
 |633 |Sum of Square Numbers|Python|Easy |2019/7/2||
+|654 |Maximum Binary Tree|Python|Medium |2019/7/4||
 |686 |Repeated String Match|Python|Easy |2019/7/2||
 |709 |To Lower Case|Python|Easy|2019/6/24||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
@@ -64,3 +66,4 @@
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
+|1079|Letter Tile Possibilities|Python|Medium|2019/7/4||
