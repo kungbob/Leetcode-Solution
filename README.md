@@ -49,6 +49,8 @@
 |203 |Remove Linked List Element|Python|Easy|2019/7/2||
 |204 |Count Primes|Python|Easy|2019/6/26||
 |234 |Palindrome Linked List|Python|Easy|2019/7/2||
+|278 |First Bad Version|Python|Easy|2019/7/7||
+|400 |Nth Digit|Python|Easy|2019/7/7||
 |414 |Third Maximum Number|Python|Easy|2019/6/26||
 |443 |String Compression|Python|Easy|2019/7/3||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
@@ -56,6 +58,7 @@
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
 |633 |Sum of Square Numbers|Python|Easy |2019/7/2||
 |654 |Maximum Binary Tree|Python|Medium |2019/7/4||
+|665 |Non-decreasing Array|Python|Easy|2019/7/7||
 |686 |Repeated String Match|Python|Easy |2019/7/2||
 |709 |To Lower Case|Python|Easy|2019/6/24||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
