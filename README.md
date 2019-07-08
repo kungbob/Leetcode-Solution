@@ -66,7 +66,10 @@
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
+|905 |Sort Array By Parity|Python|Easy|2019/7/8||
+|929 |Unique Email Address|Python|Easy|2019/7/8||
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
+|1051|Height Checker|Python|Easy|2019/7/8||
 |1079|Letter Tile Possibilities|Python|Medium|2019/7/4||
