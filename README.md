@@ -58,9 +58,11 @@
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
 |633 |Sum of Square Numbers|Python|Easy |2019/7/2||
 |654 |Maximum Binary Tree|Python|Medium |2019/7/4||
+|657 |Robot Return to Origin|Python|Easy |2019/7/9||
 |665 |Non-decreasing Array|Python|Easy|2019/7/7||
 |686 |Repeated String Match|Python|Easy |2019/7/2||
 |709 |To Lower Case|Python|Easy|2019/6/24||
+|728 |Self Dividing Numbers|Python|Easy|2019/7/9||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
@@ -69,6 +71,7 @@
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
 |929 |Unique Email Address|Python|Easy|2019/7/8||
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
+|942 |DI String Match|Python|Easy|2019/7/9||
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
 |1051|Height Checker|Python|Easy|2019/7/8||
