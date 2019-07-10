@@ -53,6 +53,8 @@
 |400 |Nth Digit|Python|Easy|2019/7/7||
 |414 |Third Maximum Number|Python|Easy|2019/6/26||
 |443 |String Compression|Python|Easy|2019/7/3||
+|496 |Next Greater Element I|Python|Easy|2019/7/10||
+|509 |Fibonacci Number|Python|Easy|2019/7/10||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
@@ -61,6 +63,7 @@
 |657 |Robot Return to Origin|Python|Easy |2019/7/9||
 |665 |Non-decreasing Array|Python|Easy|2019/7/7||
 |686 |Repeated String Match|Python|Easy |2019/7/2||
+|700 |Search in a Binary Search Tree|Python|Easy|2019/7/10||
 |709 |To Lower Case|Python|Easy|2019/6/24||
 |728 |Self Dividing Numbers|Python|Easy|2019/7/9||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
