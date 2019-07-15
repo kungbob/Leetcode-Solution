@@ -57,7 +57,9 @@
 |509 |Fibonacci Number|Python|Easy|2019/7/10||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
+|561 |Array Partition I|Python|Easy|2019/7/15||
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
+|617 |Merge Two Binary Trees|Python|Easy|2019/7/15||
 |633 |Sum of Square Numbers|Python|Easy |2019/7/2||
 |654 |Maximum Binary Tree|Python|Medium |2019/7/4||
 |657 |Robot Return to Origin|Python|Easy |2019/7/9||
@@ -70,6 +72,7 @@
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
+|852 |Peak Index in a Mountain Array|Python|Easy|2019/7/15||
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
@@ -77,6 +80,7 @@
 |929 |Unique Email Address|Python|Easy|2019/7/8||
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
 |942 |DI String Match|Python|Easy|2019/7/9||
+|944 |Delete Columns to Make Sorted|Python|Easy|2019/7/15||
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
 |1025|Divisor Game|Python|Easy|2019/7/11||
