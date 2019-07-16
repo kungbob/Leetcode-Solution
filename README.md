@@ -58,6 +58,8 @@
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
 |561 |Array Partition I|Python|Easy|2019/7/15||
+|589 |N-ary Tree Preorder Traversal|Python|Easy|2019/7/16||
+|590 |N-ary Tree Postorder Traversal|Python|Easy|2019/7/16||
 |605 |Can Place Flowers|Python|Easy |2019/6/26||
 |617 |Merge Two Binary Trees|Python|Easy|2019/7/15||
 |633 |Sum of Square Numbers|Python|Easy |2019/7/2||
@@ -77,6 +79,7 @@
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
 |908 |Smallest Range I|Python|Easy|2019/7/11||
+|922 |Sort Array By Parity II|Python|Easy|2019/7/16||
 |929 |Unique Email Address|Python|Easy|2019/7/8||
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
 |942 |DI String Match|Python|Easy|2019/7/9||
