@@ -84,8 +84,11 @@
 |938 |Range Sum of BST|Python|Easy|2019/6/25||
 |942 |DI String Match|Python|Easy|2019/7/9||
 |944 |Delete Columns to Make Sorted|Python|Easy|2019/7/15||
+|965 |Univalued Binary Tree|Python|Easy|2019/7/17||
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
+|999 |Available Captures for Rook|Python|Easy|2019/7/17||
 |1025|Divisor Game|Python|Easy|2019/7/11||
 |1051|Height Checker|Python|Easy|2019/7/8||
+|1078|Occurrences After Bigram|Python|Easy|2019/7/17||
 |1079|Letter Tile Possibilities|Python|Medium|2019/7/4||
