@@ -57,6 +57,7 @@
 |509 |Fibonacci Number|Python|Easy|2019/7/10||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
+|559 |Maximum Depth of N-ary Tree|Python|Easy|2019/718||
 |561 |Array Partition I|Python|Easy|2019/7/15||
 |589 |N-ary Tree Preorder Traversal|Python|Easy|2019/7/16||
 |590 |N-ary Tree Postorder Traversal|Python|Easy|2019/7/16||
@@ -76,6 +77,7 @@
 |832 |Flipping an Image|Python|Easy|2019/6/24||
 |852 |Peak Index in a Mountain Array|Python|Easy|2019/7/15||
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
+|883 |Projection Area of 3D Shapes|Python|Easy|2019/7/18||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
 |908 |Smallest Range I|Python|Easy|2019/7/11||
@@ -92,3 +94,4 @@
 |1051|Height Checker|Python|Easy|2019/7/8||
 |1078|Occurrences After Bigram|Python|Easy|2019/7/17||
 |1079|Letter Tile Possibilities|Python|Medium|2019/7/4||
+|1122|Relative Sort Array|Python|Easy|2019/7/18||
