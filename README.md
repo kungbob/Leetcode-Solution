@@ -79,6 +79,7 @@
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
 |883 |Projection Area of 3D Shapes|Python|Easy|2019/7/18||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
+|897 |Increasing Order Search Tree|Python|Easy|2019/7/19||
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
 |908 |Smallest Range I|Python|Easy|2019/7/11||
 |922 |Sort Array By Parity II|Python|Easy|2019/7/16||
@@ -90,6 +91,8 @@
 |970 |Powerful Integers|Python|Easy|2019/7/2|Sample solution proved by Leetcode is wrong. Xrange(18) does not pass all test cases.|
 |977 |Squares of a Sorted Array|Python|Easy|2019/6/25||
 |999 |Available Captures for Rook|Python|Easy|2019/7/17||
+|1002|Find Common Characters|Python|Easy|2019/7/19||
+|1021|Remove Outermost Parentheses|Python|Easy|2019/7/19||
 |1025|Divisor Game|Python|Easy|2019/7/11||
 |1051|Height Checker|Python|Easy|2019/7/8||
 |1078|Occurrences After Bigram|Python|Easy|2019/7/17||
