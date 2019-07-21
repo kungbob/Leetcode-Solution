@@ -57,6 +57,7 @@
 |509 |Fibonacci Number|Python|Easy|2019/7/10||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
+|557 |Reverse Words in a String III|Python|Easy|2019/7/21||
 |559 |Maximum Depth of N-ary Tree|Python|Easy|2019/718||
 |561 |Array Partition I|Python|Easy|2019/7/15||
 |589 |N-ary Tree Preorder Traversal|Python|Easy|2019/7/16||
@@ -74,8 +75,10 @@
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
+|821 |Shortest Distance to a Character|Python|Easy|2019/7/21||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
 |852 |Peak Index in a Mountain Array|Python|Easy|2019/7/15||
+|867 |Transpose Matrix|Python|Easy|2019/7/21||
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
 |883 |Projection Area of 3D Shapes|Python|Easy|2019/7/18||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
@@ -94,6 +97,8 @@
 |1002|Find Common Characters|Python|Easy|2019/7/19||
 |1021|Remove Outermost Parentheses|Python|Easy|2019/7/19||
 |1025|Divisor Game|Python|Easy|2019/7/11||
+|1030|Matrix Cells in Distance Order|Python|Easy|2019/7/21||
+|1047|Remove All Adjacent Duplicates In String|Python|Easy|2019/7/21||
 |1051|Height Checker|Python|Easy|2019/7/8||
 |1078|Occurrences After Bigram|Python|Easy|2019/7/17||
 |1079|Letter Tile Possibilities|Python|Medium|2019/7/4||
