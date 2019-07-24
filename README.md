@@ -54,6 +54,7 @@
 |414 |Third Maximum Number|Python|Easy|2019/6/26||
 |443 |String Compression|Python|Easy|2019/7/3||
 |496 |Next Greater Element I|Python|Easy|2019/7/10||
+|500 |Keyboard Row|Python|Easy|2019/7/24||
 |509 |Fibonacci Number|Python|Easy|2019/7/10||
 |526 |Beautiful Arrangement|Python|Medium |2019/6/20|Not very clear about the question|
 |535 |Encode and Decode TinyURL|Python|Medium |2019/6/27||
@@ -74,6 +75,7 @@
 |728 |Self Dividing Numbers|Python|Easy|2019/7/9||
 |771 |Jewels and Stones|Python|Easy |2019/6/19||
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
+|806 |Number of Lines To Write String|Python|Easy|2019/7/24||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
 |821 |Shortest Distance to a Character|Python|Easy|2019/7/21||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
@@ -82,6 +84,7 @@
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
 |883 |Projection Area of 3D Shapes|Python|Easy|2019/7/18||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
+|893 |Groups of Special-Equivalent Strings|Python|Easy|2019/7/24||
 |897 |Increasing Order Search Tree|Python|Easy|2019/7/19||
 |905 |Sort Array By Parity|Python|Easy|2019/7/8||
 |908 |Smallest Range I|Python|Easy|2019/7/11||
