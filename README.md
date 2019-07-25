@@ -44,6 +44,7 @@
 |67  |Add Binary|Python|Easy |2019/6/21||
 |69  |Sqrt(x) |Python|Easy |2019/6/20||
 |100 |Same Tree|Python|Easy|2019/6/21||
+|104 |Maximum Depth of Binary Tree|Python|Easy|2019/7/25||
 |112 |Path Sum|Python|Easy|2019/7/4||
 |155 |Min Stack|Python|Easy|2019/7/2||
 |203 |Remove Linked List Element|Python|Easy|2019/7/2||
@@ -83,6 +84,7 @@
 |867 |Transpose Matrix|Python|Easy|2019/7/21||
 |876 |Middle of the Linked List|Python|Easy|2019/7/11||
 |883 |Projection Area of 3D Shapes|Python|Easy|2019/7/18||
+|884 |Uncommon Words from Two Sentences|Python|Easy|2019/7/25||
 |890 |Find and Replace Pattern|Python|Medium|2019/6/28||
 |893 |Groups of Special-Equivalent Strings|Python|Easy|2019/7/24||
 |897 |Increasing Order Search Tree|Python|Easy|2019/7/19||
@@ -101,6 +103,7 @@
 |1021|Remove Outermost Parentheses|Python|Easy|2019/7/19||
 |1025|Divisor Game|Python|Easy|2019/7/11||
 |1030|Matrix Cells in Distance Order|Python|Easy|2019/7/21||
+|1046|Last Stone Weight|Python|Easy|2019/7/25||
 |1047|Remove All Adjacent Duplicates In String|Python|Easy|2019/7/21||
 |1051|Height Checker|Python|Easy|2019/7/8||
 |1078|Occurrences After Bigram|Python|Easy|2019/7/17||
