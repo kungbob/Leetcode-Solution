@@ -78,6 +78,7 @@
 |804 |Unique Morse Code Words|Python|Easy |2019/6/25||
 |806 |Number of Lines To Write String|Python|Easy|2019/7/24||
 |807 |Max Increase to Keep City Skyline|Python|Medium|2019/6/19||
+|811 |Subdomain Visit Count|Python|Easy|2019/7/28||
 |821 |Shortest Distance to a Character|Python|Easy|2019/7/21||
 |832 |Flipping an Image|Python|Easy|2019/6/24||
 |852 |Peak Index in a Mountain Array|Python|Easy|2019/7/15||
